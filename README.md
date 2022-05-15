@@ -1,2 +1,2 @@
 # NoTSnakeGame
-Using pygame simple snake game.
+Using pygame , a simple snake game.
